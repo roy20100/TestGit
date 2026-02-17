@@ -1,1 +1,1 @@
-find the way to work
+find the way to work: git pages
